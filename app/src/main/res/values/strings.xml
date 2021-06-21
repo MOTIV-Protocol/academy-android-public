@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">도움닫기</string>
+    <string name="url">https:///features?platform=android</string>
+    <string name="domain">https://</string>
+    <string name="yes">네</string>
+    <string name="no">아니오</string>
+</resources>
